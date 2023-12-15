@@ -12,7 +12,7 @@ spec:
       creationTimestamp: null
     spec:
       containers:
-      - image: quay.io/redhat-appstudio-qe/jvm-build-pngf-tenant/jvm-build-suite-application-nmzm/jvm-build-suite-component-hppzzv@sha256:3abdef13d6baadfcf815d131b8ac17cc00395e1c7c1c0aa32d559f2003f68d15
+      - image: quay.io/redhat-appstudio-qe/jvm-build-pngf-tenant/jvm-build-suite-application-nmzm/jvm-build-suite-component-hppzzv@sha256:c0157057476f0ee4d1800186c9e8f28b97356ff9bf365eb1cb134bc352db992d
         name: hacbs-jvm-build-test-project
         resources: {}
 status: {}
